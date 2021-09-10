@@ -11,6 +11,6 @@ spec:
   sourceFormat: unstructured
   git:
     repo: "https://github.com/lukiii16/namespace-repo.git"
-    branch: "master"
+    branch: "main"
     auth: none
     noSSLVerify: true
